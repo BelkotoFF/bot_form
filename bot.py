@@ -2,7 +2,7 @@ import requests
 
 def send_form():
     # URL для відправки (змінено на formResponse)
-    url = 'https://docs.google.com/forms/d/e/1FAIpQLSfdxStsy5Twu5PfNyhIWgD0X3_VXgycUeulWZCfYAEIZx_9xA/formResponse'
+    url = 'https://docs.google.com/forms/d/e/1FAIpQLScXqDwCbQCElrXOWXjbRt9nBXPswlC8J3-gxE6WTQ2p7c6gtQ//formResponse'
 
     # Ваші дані
     data = {
